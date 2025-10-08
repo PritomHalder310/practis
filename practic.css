@@ -47,7 +47,7 @@ header{
 .button{
   width: 196px;
   height: 44px;
-  background-color: #E02C6D;
+  background-color: #2cb6e0;
   border: none;
   color: white;
   border-radius: 15px;
@@ -137,7 +137,7 @@ header{
 .down{
     
     margin-left: 80px;
-   color: #E02C6D;
+   color: #1974eb;
 }
 
 /*section4*/
