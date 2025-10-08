@@ -1,0 +1,182 @@
+ /*header*/
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px;
+}
+.hed-left{
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+.hed{
+    list-style: none;
+    margin-right: 30px;
+}
+.hed-link{
+    text-decoration: none;
+    color: black;
+}
+
+/*shared styles*/
+.display-flex{
+    display: flex;
+    justify-content: space-between;
+}
+/*font*/
+.work-sans-1 {
+  font-family: "Work Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+
+/*section 1*/
+.section-1{
+    margin-top: 50px;
+    padding: 40px;
+}
+.Start-Influencer{
+    font-size: 3.2rem;
+}
+.Lorem{
+    font-size: 1rem;
+    width: 505px;
+    height: 60.9px;
+}
+.button{
+  width: 196px;
+  height: 44px;
+  background-color: #E02C6D;
+  border: none;
+  color: white;
+  border-radius: 15px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.cam{
+    margin-left: -450px;
+    margin-bottom: 25px;
+    width: 440px;
+    height: 430px;
+
+}
+
+/*section 2*/
+
+.section-2{
+    
+    width: 85%;
+     height:110px ;
+    margin: auto;
+    justify-content: center;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    
+    
+}
+.logos{
+    
+    justify-content: space-around;
+    align-items: center;
+    padding: 28px;
+}
+
+/*section 3*/
+.section-3{
+
+}
+.popular{
+    font-size: 1.5rem;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 50px;
+}
+.card{
+    width: 329px;
+    height: 467px;
+    box-shadow: 2px 4px 4px rgba(80, 42, 42, 0.25);
+    border-radius: 15px;
+}
+.card-img{
+    margin-top: 20px;
+    margin: 15px;
+}
+.product-name{
+    margin-left: 15px;
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin-top: 15px;
+}
+.product-prize{
+    margin-left: 15px;
+    font-size: 1rem;
+    font-weight: 300;
+    margin-top: 05px;
+}
+.reating{
+    margin-left: 15px;
+    margin-top: 10px;
+}
+.product-discription{
+    margin-left: 15px;
+    margin-top: 10px;
+    font-size: 0.8rem;
+    color: rgba(120, 120, 133, 1);
+   width: 196px;
+    height: 61px;
+}
+.cards{
+    margin-left: 09%;
+    width: 85%;
+    height: 1662px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-content: center;
+}
+.down{
+    
+    margin-left: 80px;
+   color: #E02C6D;
+}
+
+/*section4*/
+.section-4{
+    margin-right: 80px;
+    padding-bottom: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.Featured{
+    font-size: 2.4rem;
+    font-weight: 700;
+    margin-top: 23px;
+}
+.Amet{
+    font-size: 1rem;
+    font-weight: 300;
+    margin-top: 16px;
+    color: rgba(120, 120, 133, 1);
+    width:400px;
+    height: 88px;
+}
+
+/*footer*/
+.footer{
+    background-color: #120130;
+    text-align: center;
+    padding: 40px;
+    margin-top: 50px;
+    font-size: 0.8rem;
+    color: rgba(120, 120, 133, 1);
+}
+.fot{
+    color: white; 
+    font-size: 1.5rem;
+}
+.Copyright{
+    color: white;
+    font-size: 0.8rem;
+}
